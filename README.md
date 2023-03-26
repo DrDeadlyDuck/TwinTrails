@@ -6,7 +6,11 @@ An enjoyable 8-bit multiplayer game that develops teamwork!
 
 ***--- How to Setup ---***
 
-**Method 1.**
+**Method 1**
+
+Run this repl.it : https://replit.com/@DrDeadlyDuck/Twin-Trails
+
+**Method 2.**
 
 Check if you have python by typing `python --version` in your terminal / command prompt. If not download python.
 
@@ -14,7 +18,7 @@ Download pip by `python get-pip.py`
 
 Run the command `pip install pygame` in your terminal / command prompt
 
-**Method 2.**
+**Method 3.**
 
 Download PyCharm from https://www.jetbrains.com/pycharm/download/#section=mac
 
@@ -24,9 +28,6 @@ Add the pygame module ( Here is how to do it: https://www.jetbrains.com/help/pyc
 
 Add these files to the project
 
-**Method 3**
-
-Run this repl.it : {Coming Soon}
 
 
 ***--- How to Play ---***
