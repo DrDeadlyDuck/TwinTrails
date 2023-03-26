@@ -1,9 +1,10 @@
 # TwinTrails
---- An Official Duck Studios Creation ---
+***--- An Official Duck Studios Creation ---***
 
 An enjoyable 8-bit multiplayer game that develops teamwork!
 
---- How to Setup ---
+
+***--- How to Setup ---***
 
 **Method 1.**
 
@@ -24,9 +25,11 @@ Add the pygame module ( Here is how to do it: https://www.jetbrains.com/help/pyc
 Add these files to the project
 
 **Method 3**
+
 Run this repl.it : {Coming Soon}
 
---- How to Play ---
+
+***--- How to Play ---***
 
 Run `main.py`
 
