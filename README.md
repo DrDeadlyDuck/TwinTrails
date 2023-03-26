@@ -3,6 +3,16 @@
 
 An enjoyable 8-bit multiplayer game that develops teamwork!
 
+--- How to Setup ---
+
+Check if you have python by typing `python --version` in your terminal / command prompt. If not download python.
+
+Download pip by `python get-pip.py`
+
+Run the command `pip install pygame` in your terminal / command prompt
+ 
+
+
 --- How to Play ---
 
 Run `main.py`
